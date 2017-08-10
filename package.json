@@ -1,0 +1,8 @@
+{
+  "name" : "foo",
+  "version" : "1.2.3",
+  "description" : "A packaged foo fooer for fooing foos",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
